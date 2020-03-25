@@ -2,7 +2,7 @@
 /* CSS Document */
 *{box-sizing: border-box;}
 body{
-	background-image: url("file:///Macintosh HD/Users/kathrynmartin/Desktop/Git/box_model_quiz/dot.png");
+	background-image: url("Images/dot.png");
 	
 }
 
@@ -43,7 +43,7 @@ h1{
 }
 
 header{
-	background-image: url("file:///Macintosh HD/Users/kathrynmartin/Desktop/Git/box_model_quiz/header_bkg.png");
+	background-image: url("Images/header_bkg.png");
 	height: 200px;
 	border-radius: 20px;
 }
